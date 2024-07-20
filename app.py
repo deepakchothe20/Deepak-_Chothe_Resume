@@ -124,7 +124,7 @@ if selected == "Education":
    )
   txt('**POST- GRADUATION** (Statistics)','2019 – 2021')
   txt('*Jilha Maratha Vidya Prasarak Samaj New Arts Commerce Science College *', 'Ahmednagar Maharashtra')
-  st.markdoewn('''
+  st.markdown('''
   - Completed post-graduation in Statistics with 8.1 CGPA
   ''')
   txt('**GRADUATION** (Statistics)','2016 – 2019')
