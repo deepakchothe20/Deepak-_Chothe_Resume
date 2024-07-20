@@ -87,7 +87,7 @@ if selected == "Home":
     quality="low", # medium ; high
      # canvas
     height=300,
-    width=700,
+    width=None,
     key=None,
 )
   st.markdown('<h1 style="text-align:center;">Deepak Chothe</h1>',unsafe_allow_html=True)
